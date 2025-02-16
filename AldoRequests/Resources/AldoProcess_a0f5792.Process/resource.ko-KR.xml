@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApprovalSchemaUId.Caption" Value="승인 객체" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverEmailTemplate.Caption" Value="승인자의 전자 메일 템플릿" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverType.Caption" Value="승인자 유형" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.AuthorEmailTemplate.Caption" Value="작성자의 전자 메일 템플릿" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.CurrentApprovalId.Caption" Value="현재 승인 ID" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EmployeeId.Caption" Value="직원" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EntitySchemaUId.Caption" Value="개체" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IgnoreEmailErrors.Caption" Value="전자 메일 전송 오류 무시" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsAllowedToDelegate.Caption" Value="승인을 위임할 수 있습니다" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsRequiredDigitalSignature.Caption" Value="디지털 서명 필요" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToApprovers.Caption" Value="승인자에게 전자 메일 보내기" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToAuthor.Caption" Value="작성자에게 이메일 보내기" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.MasterColumnUId.Caption" Value="마스터 열" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.Purpose.Caption" Value="승인목적" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RecordId.Caption" Value="레코드 ID" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ResultParameter.Caption" Value="결과 매개 변수" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RoleId.Caption" Value="역할" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.SectionId.Caption" Value="부분" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApprovalSchemaUId.Caption" Value="승인 객체" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApproverEmailTemplate.Caption" Value="승인자의 전자 메일 템플릿" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApproverType.Caption" Value="승인자 유형" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.AuthorEmailTemplate.Caption" Value="작성자의 전자 메일 템플릿" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.CurrentApprovalId.Caption" Value="현재 승인 ID" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.EmployeeId.Caption" Value="직원" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.EntitySchemaUId.Caption" Value="개체" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IgnoreEmailErrors.Caption" Value="전자 메일 전송 오류 무시" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsAllowedToDelegate.Caption" Value="승인을 위임할 수 있습니다" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsRequiredDigitalSignature.Caption" Value="디지털 서명 필요" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsSendEmailToApprovers.Caption" Value="승인자에게 전자 메일 보내기" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsSendEmailToAuthor.Caption" Value="작성자에게 이메일 보내기" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.MasterColumnUId.Caption" Value="마스터 열" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.Purpose.Caption" Value="승인목적" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.RecordId.Caption" Value="레코드 ID" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ResultParameter.Caption" Value="결과 매개 변수" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.RoleId.Caption" Value="역할" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.SectionId.Caption" Value="부분" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="개체" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="개체 스키마" />
+			<Item Name="Caption" Value="Request approval process" />
+		</Items>
+	</Group>
+</Resources>

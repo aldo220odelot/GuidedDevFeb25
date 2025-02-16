@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "63761ac4-3970-4b43-aa21-6267e8121efd",
+    "Name": "AldoRefreshPopUp",
+    "ModifiedOnUtc": "\/Date(1739722255000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Refresh pop-up",
+    "DependsOn": []
+  }
+}

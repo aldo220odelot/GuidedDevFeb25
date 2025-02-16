@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Enter applicant feedback page" />
+			<Item Name="LocalizableStrings.addRecord_hp4pr1u_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Label_tuynrw8_caption.Value" Value="Enter applicant feedback here:" />
+			<Item Name="Parameters.50a1e0a5-6acb-414e-3a4c-1939dfcec124.Caption" Value="Feedback score" />
+			<Item Name="Parameters.8bcb7c25-c334-0dbe-d39c-90801cca45fc.Caption" Value="Comment" />
+		</Items>
+	</Group>
+</Resources>

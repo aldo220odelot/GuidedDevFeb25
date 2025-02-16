@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApprovalSchemaUId.Caption" Value="Đối tượng chấp thuận" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverEmailTemplate.Caption" Value="Bản mẫu email cho người phê duyệt" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverType.Caption" Value="Loại người phê duyệt" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.AuthorEmailTemplate.Caption" Value="Bản mẫu email cho tác giả" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.CurrentApprovalId.Caption" Value="Id Phê duyệt Hiện tại" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EmployeeId.Caption" Value="Nhân viên" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EntitySchemaUId.Caption" Value="Đối tượng" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IgnoreEmailErrors.Caption" Value="Bỏ qua lỗi gửi email" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsAllowedToDelegate.Caption" Value="Phê duyệt có thể được ủy nhiệm" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsRequiredDigitalSignature.Caption" Value="Chữ ký số được yêu cầu" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToApprovers.Caption" Value="Gửi email đến những người phê duyệt" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToAuthor.Caption" Value="Gửi email đến tác giả" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.MasterColumnUId.Caption" Value="Cột chủ" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.Purpose.Caption" Value="Mục đích phê duyệt" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RecordId.Caption" Value="Id bản ghi" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ResultParameter.Caption" Value="Tham số kết quả" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RoleId.Caption" Value="Vai trò" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.SectionId.Caption" Value="Phần" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApprovalSchemaUId.Caption" Value="Đối tượng chấp thuận" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApproverEmailTemplate.Caption" Value="Bản mẫu email cho người phê duyệt" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApproverType.Caption" Value="Loại người phê duyệt" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.AuthorEmailTemplate.Caption" Value="Bản mẫu email cho tác giả" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.CurrentApprovalId.Caption" Value="Id Phê duyệt Hiện tại" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.EmployeeId.Caption" Value="Nhân viên" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.EntitySchemaUId.Caption" Value="Đối tượng" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IgnoreEmailErrors.Caption" Value="Bỏ qua lỗi gửi email" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsAllowedToDelegate.Caption" Value="Phê duyệt có thể được ủy nhiệm" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsRequiredDigitalSignature.Caption" Value="Chữ ký số được yêu cầu" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsSendEmailToApprovers.Caption" Value="Gửi email đến những người phê duyệt" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsSendEmailToAuthor.Caption" Value="Gửi email đến tác giả" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.MasterColumnUId.Caption" Value="Cột chủ" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.Purpose.Caption" Value="Mục đích phê duyệt" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.RecordId.Caption" Value="Id bản ghi" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ResultParameter.Caption" Value="Tham số kết quả" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.RoleId.Caption" Value="Vai trò" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.SectionId.Caption" Value="Phần" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Đối tượng" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Giản đồ đối tượng" />
+			<Item Name="Caption" Value="Request approval process" />
+		</Items>
+	</Group>
+</Resources>

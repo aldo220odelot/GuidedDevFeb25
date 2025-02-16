@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Requests form page" />
+			<Item Name="LocalizableStrings.addRecord_irghk6j_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_jv9rsvf_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ormky2o_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ubgw85z_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_vpysx3o_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_yzw60pw_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_2umn6kf_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.Button_dbglgxw_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.Button_jp26ush_caption.Value" Value="Delete expenses button" />
+			<Item Name="LocalizableStrings.Button_kn25qxg_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.Button_menfhmr_caption.Value" Value="Get feedback" />
+			<Item Name="LocalizableStrings.Button_pd02yp0_caption.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.EmailInput_0kpj3ec_caption.Value" Value="Email address" />
+			<Item Name="LocalizableStrings.EmailInput_0kpj3ec_label.Value" Value="Email address" />
+			<Item Name="LocalizableStrings.ExpansionPanel_9993bq9_title.Value" Value="Request expenses" />
+			<Item Name="LocalizableStrings.ExpansionPanel_9i067y6_title.Value" Value="Approvals list" />
+			<Item Name="LocalizableStrings.ExpansionPanel_c5wuef3_title.Value" Value="Next steps" />
+			<Item Name="LocalizableStrings.ExpansionPanel_hv6x1pv_title.Value" Value="Next steps" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_3bvtnps_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_q8xa1um_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_3c9inok_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_077syt7_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_0rmf8z0_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_prd71bw_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_1jlswnh_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.Label_0saielv_caption.Value" Value="Applicant info" />
+			<Item Name="LocalizableStrings.Label_27g5c2s_caption.Value" Value="Applicant info" />
+			<Item Name="LocalizableStrings.Label_3npw578_caption.Value" Value="Label 2" />
+			<Item Name="LocalizableStrings.Label_5y96nhl_caption.Value" Value="Feedback information" />
+			<Item Name="LocalizableStrings.Label_btxlia4_caption.Value" Value="Label 1" />
+			<Item Name="LocalizableStrings.Label_ci2urmu_caption.Value" Value="Label 2" />
+			<Item Name="LocalizableStrings.Label_fz25uk7_caption.Value" Value="Label 2" />
+			<Item Name="LocalizableStrings.Label_oag7c4y_caption.Value" Value="Label 2" />
+			<Item Name="LocalizableStrings.Label_rsh633j_caption.Value" Value="Label 1" />
+			<Item Name="LocalizableStrings.Label_t6zrker_caption.Value" Value="Next steps" />
+			<Item Name="LocalizableStrings.MenuItem_ns4442l_caption.Value" Value="Menu item" />
+			<Item Name="LocalizableStrings.PhoneInput_158xk34_caption.Value" Value="Phone number" />
+			<Item Name="LocalizableStrings.PhoneInput_158xk34_label.Value" Value="Phone number" />
+			<Item Name="LocalizableStrings.RichTextEditor_9eqnu0x_placeholder.Value" Value="please enter your request description here" />
+			<Item Name="LocalizableStrings.RichTextEditor_pfk1qo8_placeholder.Value" Value="please enter your description here" />
+			<Item Name="LocalizableStrings.RichTextEditor_pfk1qo8_tooltip.Value" Value="Use this field for description" />
+			<Item Name="LocalizableStrings.SearchFilter_ffcfmt7_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.TabContainer_1jzrq78_caption.Value" Value="More information" />
+			<Item Name="LocalizableStrings.TabContainer_4jj6ko0_caption.Value" Value="Expenses" />
+			<Item Name="LocalizableStrings.TabContainer_5p6s09e_caption.Value" Value="Next steps" />
+			<Item Name="LocalizableStrings.TabContainer_82346ue_caption.Value" Value="Tab 2" />
+			<Item Name="LocalizableStrings.TabContainer_cnom5r8_caption.Value" Value="Tab 1" />
+			<Item Name="LocalizableStrings.TabContainer_fx8iujz_caption.Value" Value="Tab 1" />
+			<Item Name="LocalizableStrings.TabContainer_h9pjzq6_caption.Value" Value="Tab 2" />
+			<Item Name="LocalizableStrings.TabContainer_nvb4vt2_caption.Value" Value="Tab 2" />
+			<Item Name="LocalizableStrings.TabContainer_qgyvs86_caption.Value" Value="More information" />
+			<Item Name="LocalizableStrings.TabContainer_zo4zc0o_caption.Value" Value="Tab 2" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f28e3893-f115-4b80-be91-79407f3b8991",
+    "Name": "AldoRequestsDesktop",
+    "ModifiedOnUtc": "\/Date(1739591163000)\/",
+    "Parent": {
+      "UId": "fbc98c89-0691-479c-bc25-59c11ac2365f",
+      "Name": "CentralAreaDesktopTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests desktop",
+    "DependsOn": []
+  }
+}

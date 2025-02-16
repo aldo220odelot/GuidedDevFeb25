@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "321cb06a-73af-4a97-83c3-da2185962d83",
+    "Name": "AldoRequests_FormPage",
+    "ModifiedOnUtc": "\/Date(1739721221000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests form page",
+    "DependsOn": []
+  }
+}

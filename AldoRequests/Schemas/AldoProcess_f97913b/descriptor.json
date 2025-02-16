@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "554f8dc6-14ae-4857-8d1c-a2351469754b",
+    "Name": "AldoProcess_f97913b",
+    "ModifiedOnUtc": "\/Date(1739720938000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Get applicant feedback",
+    "DependsOn": []
+  }
+}

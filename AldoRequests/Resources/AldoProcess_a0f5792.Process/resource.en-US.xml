@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ApprovalUserTask1.Caption" Value="Main office manager approval" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApprovalSchemaUId.Caption" Value="Approval object" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverEmailTemplate.Caption" Value="Email template for the approver" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverType.Caption" Value="Approver type" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverType.DisplayValue" Value="Role" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.AuthorEmailAddress.Caption" Value="Recipient" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.AuthorEmailTemplate.Caption" Value="Email template for the author" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.CurrentApprovalId.Caption" Value="Current Approval Id" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EmployeeId.Caption" Value="Employee" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EntitySchemaUId.DisplayValue" Value="d987a6b5-59fe-4d49-b597-52c03caabdd7" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IgnoreEmailErrors.Caption" Value="Ignore email sending errors" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IgnoreEmailErrors.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsAllowedToDelegate.Caption" Value="Approval may be delegated" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsAllowedToDelegate.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsRequiredDigitalSignature.Caption" Value="Digital signature required" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToApprovers.Caption" Value="Send email to the approvers" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToApprovers.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToAuthor.Caption" Value="Send email to the author" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToAuthor.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.MasterColumnUId.Caption" Value="Master column" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.Purpose.Caption" Value="Approval purpose" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.Purpose.DisplayValue" Value="Please approve this request" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.Purpose.Value" Value="Please approve this request" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RecordId.DisplayValue" Value="[#Request Id#]" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ResultParameter.Caption" Value="Result parameter" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RoleId.DisplayValue" Value="[#Lookup.Roles (view).Main office managers.25c74f28-273d-4760-b19f-bfac0e1f41a1#]" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.SectionId.Caption" Value="Section" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.SectionId.DisplayValue" Value="4585be7a-4c9b-4ecb-b010-be1bdb97d2f2" />
+			<Item Name="BaseElements.ApprovalUserTask2.Caption" Value="Support manager approval" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApprovalSchemaUId.Caption" Value="Approval object" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApproverEmailTemplate.Caption" Value="Email template for the approver" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApproverType.Caption" Value="Approver type" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApproverType.DisplayValue" Value="Role" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.AuthorEmailAddress.Caption" Value="Recipient" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.AuthorEmailTemplate.Caption" Value="Email template for the author" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.CurrentApprovalId.Caption" Value="Current Approval Id" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.EmployeeId.Caption" Value="Employee" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.EntitySchemaUId.DisplayValue" Value="d987a6b5-59fe-4d49-b597-52c03caabdd7" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IgnoreEmailErrors.Caption" Value="Ignore email sending errors" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IgnoreEmailErrors.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsAllowedToDelegate.Caption" Value="Approval may be delegated" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsAllowedToDelegate.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsRequiredDigitalSignature.Caption" Value="Digital signature required" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsSendEmailToApprovers.Caption" Value="Send email to the approvers" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsSendEmailToApprovers.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsSendEmailToAuthor.Caption" Value="Send email to the author" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsSendEmailToAuthor.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.MasterColumnUId.Caption" Value="Master column" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.Purpose.Caption" Value="Approval purpose" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.Purpose.DisplayValue" Value="Please approve this request" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.Purpose.Value" Value="Please approve this request" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.RecordId.DisplayValue" Value="[#Request Id#]" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ResultParameter.Caption" Value="Result parameter" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.RoleId.DisplayValue" Value="[#Lookup.Roles (view).Support team. Managers group.255cfc4a-be97-4f3d-9c60-912ed3b0ca96#]" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.SectionId.Caption" Value="Section" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.SectionId.DisplayValue" Value="4585be7a-4c9b-4ecb-b010-be1bdb97d2f2" />
+			<Item Name="BaseElements.ConditionalSequenceFlow3.Caption" Value="Negative" />
+			<Item Name="BaseElements.ConditionalSequenceFlow4.Caption" Value="Negative" />
+			<Item Name="BaseElements.ConditionalSequenceFlow5.Caption" Value="Positive" />
+			<Item Name="BaseElements.ConditionalSequenceFlow6.Caption" Value="Positive" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Result = 1" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Caption" Value="Connect request to process" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Object" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.DisplayValue" Value="[#Request Id#]" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Object schema" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.DisplayValue" Value="Requests" />
+			<Item Name="BaseElements.SequenceFlow3.Caption" Value="Conditional flow 1" />
+			<Item Name="Caption" Value="Request approval process" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.RequestId.Caption" Value="Request Id" />
+			<Item Name="Parameters.Result.Caption" Value="Result" />
+			<Item Name="Parameters.Result.DisplayValue" Value="0" />
+		</Items>
+	</Group>
+</Resources>

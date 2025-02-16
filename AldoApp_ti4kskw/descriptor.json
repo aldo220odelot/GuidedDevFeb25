@@ -1,0 +1,23 @@
+﻿{
+  "Descriptor": {
+    "UId": "ed16e29f-9889-470f-857b-5df3860a267b",
+    "Name": "AldoApp_ti4kskw",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(-62135586000000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/AldoApp_ti4kskw.csproj",
+    "DependsOn": [
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
+        "UId": "b609512b-53a7-4b07-aca3-c12258bd4a45",
+        "Name": "AldoRequests",
+        "Type": 1
+      }
+    ]
+  }
+}

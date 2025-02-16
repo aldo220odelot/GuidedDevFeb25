@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApprovalSchemaUId.Caption" Value="Objet validation" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverEmailTemplate.Caption" Value="Modèle de mail pour le validateur" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ApproverType.Caption" Value="Type de Validateur" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.AuthorEmailTemplate.Caption" Value="Modèle d'email pour l'auteur" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.CurrentApprovalId.Caption" Value="Id de la validation en cours" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EmployeeId.Caption" Value="Collaborateur" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.EntitySchemaUId.Caption" Value="Objet" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IgnoreEmailErrors.Caption" Value="Ignorer les erreurs d'envoi de mails" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsAllowedToDelegate.Caption" Value="La validation peut être déléguée" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsRequiredDigitalSignature.Caption" Value="Signature numérique nécessaire" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToApprovers.Caption" Value="Envoyer un email aux validateurs" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.IsSendEmailToAuthor.Caption" Value="Envoyer un mail à l'auteur" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.MasterColumnUId.Caption" Value="Colonne maître" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.Purpose.Caption" Value="Justification de la validation" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RecordId.Caption" Value="Id de l'enregistrement" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.ResultParameter.Caption" Value="Paramètre de résultat" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.RoleId.Caption" Value="Rôle" />
+			<Item Name="BaseElements.ApprovalUserTask1.Parameters.SectionId.Caption" Value="Section" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApprovalSchemaUId.Caption" Value="Objet validation" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApproverEmailTemplate.Caption" Value="Modèle de mail pour le validateur" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ApproverType.Caption" Value="Type de Validateur" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.AuthorEmailTemplate.Caption" Value="Modèle d'email pour l'auteur" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.CurrentApprovalId.Caption" Value="Id de la validation en cours" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.EmployeeId.Caption" Value="Collaborateur" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.EntitySchemaUId.Caption" Value="Objet" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IgnoreEmailErrors.Caption" Value="Ignorer les erreurs d'envoi de mails" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsAllowedToDelegate.Caption" Value="La validation peut être déléguée" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsRequiredDigitalSignature.Caption" Value="Signature numérique nécessaire" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsSendEmailToApprovers.Caption" Value="Envoyer un email aux validateurs" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.IsSendEmailToAuthor.Caption" Value="Envoyer un mail à l'auteur" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.MasterColumnUId.Caption" Value="Colonne maître" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.Purpose.Caption" Value="Justification de la validation" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.RecordId.Caption" Value="Id de l'enregistrement" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.ResultParameter.Caption" Value="Paramètre de résultat" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.RoleId.Caption" Value="Rôle" />
+			<Item Name="BaseElements.ApprovalUserTask2.Parameters.SectionId.Caption" Value="Section" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Objet" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Structure de l'objet" />
+			<Item Name="Caption" Value="Request approval process" />
+		</Items>
+	</Group>
+</Resources>

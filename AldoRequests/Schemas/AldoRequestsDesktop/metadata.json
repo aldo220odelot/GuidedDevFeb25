@@ -1,0 +1,40 @@
+= MetaData.Schema.UId "f28e3893-f115-4b80-be91-79407f3b8991"
+= MetaData.Schema.A2 "AldoRequestsDesktop"
+= MetaData.Schema.A5 "748e795e-17fb-4c38-9815-73c4de438131"
++ MetaData.Schema.B2 {
+  "UId": "a96cd515-a493-0928-8ab7-a30a55e3b40a",
+  "A2": "ChartWidget_a1g3qtb_series_0",
+  "A3": "f28e3893-f115-4b80-be91-79407f3b8991",
+  "A4": "f28e3893-f115-4b80-be91-79407f3b8991",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131"
+}
++ MetaData.Schema.B2 {
+  "UId": "676c23cb-68ce-f7f8-07f5-216ecf1f6918",
+  "A2": "ChartWidget_a1g3qtb_title",
+  "A3": "f28e3893-f115-4b80-be91-79407f3b8991",
+  "A4": "f28e3893-f115-4b80-be91-79407f3b8991",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131"
+}
++ MetaData.Schema.B2 {
+  "UId": "c164adab-3816-c090-c7e6-8c2c8b96404f",
+  "A2": "Button_3lb6gy4_caption",
+  "A3": "f28e3893-f115-4b80-be91-79407f3b8991",
+  "A4": "f28e3893-f115-4b80-be91-79407f3b8991",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131"
+}
++ MetaData.Schema.B2 {
+  "UId": "685c40fd-255e-f343-6521-87dbcafc445f",
+  "A2": "Label_8zd299b_caption",
+  "A3": "f28e3893-f115-4b80-be91-79407f3b8991",
+  "A4": "f28e3893-f115-4b80-be91-79407f3b8991",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131"
+}
+~ MetaData.Schema.B2 ["a96cd515-a493-0928-8ab7-a30a55e3b40a","676c23cb-68ce-f7f8-07f5-216ecf1f6918","c164adab-3816-c090-c7e6-8c2c8b96404f","685c40fd-255e-f343-6521-87dbcafc445f"]
+= MetaData.Schema.B6 "b609512b-53a7-4b07-aca3-c12258bd4a45"
+= MetaData.Schema.B8 "8.1.0.6827"
+= MetaData.Schema.HD1 "fbc98c89-0691-479c-bc25-59c11ac2365f"
+= MetaData.Schema.HD14 "Desktop"
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

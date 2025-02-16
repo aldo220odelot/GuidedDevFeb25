@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ea39de28-d50d-406e-b449-84e87af5cfbc",
+    "Name": "AldoCase_5072e13",
+    "ModifiedOnUtc": "\/Date(1739681819000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Request processing",
+    "DependsOn": []
+  }
+}

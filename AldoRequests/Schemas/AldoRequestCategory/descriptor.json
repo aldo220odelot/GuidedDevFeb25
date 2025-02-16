@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e454aca0-a273-4924-8c09-72e90ed68c27",
+    "Name": "AldoRequestCategory",
+    "ModifiedOnUtc": "\/Date(1739562554000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Request category",
+    "DependsOn": []
+  }
+}

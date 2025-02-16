@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "83982153-d852-4506-bdf0-65af3b220155",
+    "Name": "AldoRequestExpensesRelatedPage",
+    "ModifiedOnUtc": "\/Date(1739308916000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Request expenses (Page settings)",
+    "DependsOn": []
+  }
+}

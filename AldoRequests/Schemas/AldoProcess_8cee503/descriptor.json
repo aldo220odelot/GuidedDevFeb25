@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "30ed913d-69cf-49dd-bd58-d22b7c4b8741",
+    "Name": "AldoProcess_8cee503",
+    "ModifiedOnUtc": "\/Date(1739723233000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Calculate request expense total",
+    "DependsOn": []
+  }
+}

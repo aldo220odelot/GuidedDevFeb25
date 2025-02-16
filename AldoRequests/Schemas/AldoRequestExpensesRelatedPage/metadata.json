@@ -1,0 +1,35 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "83982153-d852-4506-bdf0-65af3b220155",
+      "A2": "AldoRequestExpensesRelatedPage",
+      "A5": "748e795e-17fb-4c38-9815-73c4de438131",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "b609512b-53a7-4b07-aca3-c12258bd4a45",
+      "B8": "8.1.0.6827",
+      "AD1": "9f8d7b99-f345-4235-8ec4-00b9980306a1",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "906a74de-784c-7efb-cf32-a71b92269bc0",
+      "PageSchemaUId": "2e57044f-2a7c-41fa-a29b-2584912034d1",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": false
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+      "TypeColumnValue": null
+    }
+  ],
+  "TypeColumnUId": null
+}
+    }
+  }
+}

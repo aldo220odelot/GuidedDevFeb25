@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f24ae3b6-68d1-40d4-b198-025ceae698db",
+    "Name": "AldoRequests_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1739563558000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Requests form page (Business rules)",
+    "DependsOn": []
+  }
+}

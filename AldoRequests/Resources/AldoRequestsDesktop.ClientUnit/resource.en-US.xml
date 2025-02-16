@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Requests desktop" />
+			<Item Name="LocalizableStrings.Button_3lb6gy4_caption.Value" Value="Create a new request" />
+			<Item Name="LocalizableStrings.ChartWidget_a1g3qtb_series_0.Value" Value="Request expenses" />
+			<Item Name="LocalizableStrings.ChartWidget_a1g3qtb_title.Value" Value="Total expense sum by subcategory for current user" />
+			<Item Name="LocalizableStrings.Label_8zd299b_caption.Value" Value="Welcome [#Current user.Recipient Name#], here's your panel" />
+		</Items>
+	</Group>
+</Resources>

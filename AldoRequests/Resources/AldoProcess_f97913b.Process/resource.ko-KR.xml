@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Account.Caption" Value="계좌" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityCategory.Caption" Value="범주" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityPriority.Caption" Value="우선 순위" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityResult.Caption" Value="활기 결과" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Application.Caption" Value="응용 프로그램" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Case.Caption" Value="실정" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Change.Caption" Value="바꾸기" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contact.Caption" Value="연락처" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contract.Caption" Value="계약" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.CurrentActivityId.Caption" Value="작업 ID" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Document.Caption" Value="문서" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Duration.Caption" Value="지속" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.DurationPeriod.Caption" Value="기간(기간)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ExecutionContext.Caption" Value="실행 컨텍스트" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.FinApplication.Caption" Value="응용 프로그램" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Incident.Caption" Value="사건" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.InformationOnStep.Caption" Value="단계별 정보" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Invoice.Caption" Value="청구서" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.IsActivityCompleted.Caption" Value="활동 완료" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Lead.Caption" Value="리드" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Listing.Caption" Value="목록" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Opportunity.Caption" Value="기회" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Order.Caption" Value="주문" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OwnerId.Caption" Value="주인" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Problem.Caption" Value="문제" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Project.Caption" Value="프로젝트" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Property.Caption" Value="속성" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.QueueItem.Caption" Value="큐 항목" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.Caption" Value="권고" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Release.Caption" Value="발표" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBefore.Caption" Value="소유자에게 미리 알림" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBeforePeriod.Caption" Value="소유자에게 미리 알림(기간)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Requests.Caption" Value="요구" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowExecutionPage.Caption" Value="실행 페이지 자동 표시" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowInScheduler.Caption" Value="일정관리에 표시" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartIn.Caption" Value="실행 시작 위치" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartInPeriod.Caption" Value="실행 시작 기간(기간)" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="필터의 시간을 고려" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="데이터 원본 필터" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="개체" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="객체가 다음 조건을 만족하는 경우" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="열 값 설정" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityPriority.Caption" Value="우선 순위" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ActivityResult.Caption" Value="활기 결과" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ClientUnitSchemaUId.Caption" Value="모듈" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CreateActivity.Caption" Value="활동 만들기" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.CurrentActivityId.Caption" Value="작업 ID" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Duration.Caption" Value="지속" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.DurationPeriod.Caption" Value="기간(기간)" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntityId.Caption" Value="개체" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntitySchemaUId.Caption" Value="개체 스키마" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.EntryPointId.Caption" Value="진입점" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.InformationOnStep.Caption" Value="단계별 정보" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="활동 완료" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.IsRunning.Caption" Value="실행 중" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Module.Caption" Value="카드 모듈" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.OwnerId.Caption" Value="주인" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.PressedButtonCode.Caption" Value="사용자가 누른 단추의 코드" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Recommendation.Caption" Value="권고" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBefore.Caption" Value="소유자에게 미리 알림" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="소유자에게 미리 알림(기간)" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="실행 페이지 자동 표시" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.ShowInScheduler.Caption" Value="일정관리에 표시" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.StartIn.Caption" Value="실행 시작 위치" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.StartInPeriod.Caption" Value="실행 시작 기간(기간)" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Template.Caption" Value="템플릿" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Caption" Value="제목" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Title.Value" Value="Enter applicant feedback page" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.Url.Caption" Value="Url" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask1.Parameters.UseCardProcessModule.Caption" Value="표준 페이지 생성기 사용" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="집계함수열의 이름" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="커밋되지 않은 데이터 읽기" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="필터의 시간을 고려" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="필터의 데이터 원본" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="읽을 열" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="집계함수종류" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="조회 열의 표시된 값을 읽지 않음" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="읽을 레코드 수" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="열 순서" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="먼저 읽기" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="기록 수집" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="레코드 수" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="함수결과" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="결과수집 첫 번째 항목" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="결과수집" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="함수결과" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="함수결과" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="읽은 레코드 수" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="결과 유형" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="집계함수열의 이름" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="커밋되지 않은 데이터 읽기" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="필터의 시간을 고려" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="필터의 데이터 원본" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="읽을 열" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="집계함수종류" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="조회 열의 표시된 값을 읽지 않음" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="읽을 레코드 수" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="열 순서" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="먼저 읽기" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="기록 수집" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="레코드 수" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="함수결과" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="결과수집 첫 번째 항목" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="결과수집" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="함수결과" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="함수결과" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="읽은 레코드 수" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="결과 유형" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Account.Caption" Value="계좌" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ActivityCategory.Caption" Value="범주" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ActivityPriority.Caption" Value="우선 순위" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ActivityResult.Caption" Value="활기 결과" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.BranchingDecisions.Caption" Value="선택" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Case.Caption" Value="실정" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Change.Caption" Value="바꾸기" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Contact.Caption" Value="연락처" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Contract.Caption" Value="계약" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.CreateActivity.Caption" Value="활동 만들기" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.CurrentActivityId.Caption" Value="작업 ID" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.DecisionMode.Caption" Value="대화 모드" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Document.Caption" Value="문서" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Duration.Caption" Value="지속" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.DurationPeriod.Caption" Value="기간(기간)" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ExecutionContext.Caption" Value="실행 컨텍스트" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Incident.Caption" Value="실정" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.InformationOnStep.Caption" Value="단계별 정보" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Invoice.Caption" Value="청구서" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.IsActivityCompleted.Caption" Value="활동 완료" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.IsDecisionRequired.Caption" Value="옵션을 하나 이상 선택해야 합니다" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Lead.Caption" Value="리드" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Listing.Caption" Value="리스트" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Opportunity.Caption" Value="기회" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Order.Caption" Value="주문" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.OwnerId.Caption" Value="주인" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Problem.Caption" Value="문제" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Project.Caption" Value="프로젝트" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Property.Caption" Value="재산" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Question.Caption" Value="질문" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Recommendation.Caption" Value="권고" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Release.Caption" Value="발표" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.RemindBefore.Caption" Value="소유자에게 미리 알림" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.RemindBeforePeriod.Caption" Value="소유자에게 미리 알림(기간)" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.Requests.Caption" Value="요구" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ResultDecisions.Caption" Value="선택한 답변" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ShowExecutionPage.Caption" Value="실행 페이지 자동 표시" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.ShowInScheduler.Caption" Value="일정관리에 표시" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.StartIn.Caption" Value="실행 시작 위치" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.StartInPeriod.Caption" Value="실행 시작 기간(기간)" />
+			<Item Name="BaseElements.UserQuestionUserTask1.Parameters.WindowCaption.Caption" Value="창 머리글" />
+			<Item Name="Caption" Value="Get applicant feedback" />
+		</Items>
+	</Group>
+</Resources>

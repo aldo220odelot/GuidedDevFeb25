@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "505c3ef8-a7d9-4726-b494-243bebad21be",
+    "Name": "AldoRequestsBusinessRule",
+    "ModifiedOnUtc": "\/Date(1739673803000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Requests (Business rules)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2e57044f-2a7c-41fa-a29b-2584912034d1",
+    "Name": "AldoRequestExpenseMiniPage",
+    "ModifiedOnUtc": "\/Date(1739308834000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Request expenses mini page",
+    "DependsOn": []
+  }
+}

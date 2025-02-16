@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/AldoApp_ti4kskw/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/AldoApp_ti4kskw/Data/**" />
+		<Compile Remove="$(PkgPath)/AldoApp_ti4kskw/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/AldoApp_ti4kskw/Schemas\**" />
+		<Compile Remove="$(PkgPath)/AldoApp_ti4kskw/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AldoApp_ti4kskw/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AldoApp_ti4kskw/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AldoApp_ti4kskw/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AldoApp_ti4kskw/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AldoApp_ti4kskw/Resources/**" />
+		<None Remove="$(PkgPath)/AldoApp_ti4kskw/Assemblies/**" />
+		<None Remove="$(PkgPath)/AldoApp_ti4kskw/Data/**" />
+		<None Remove="$(PkgPath)/AldoApp_ti4kskw/SqlScripts/**" />
+		<None Remove="$(PkgPath)/AldoApp_ti4kskw/Schemas/**" />
+		<None Remove="$(PkgPath)/AldoApp_ti4kskw/Resources/**" />
+  </ItemGroup>
+</Project>

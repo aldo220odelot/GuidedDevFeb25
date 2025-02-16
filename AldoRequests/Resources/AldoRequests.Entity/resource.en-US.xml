@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Requests" />
+			<Item Name="Columns.AldoApplicant.Caption" Value="Applicant" />
+			<Item Name="Columns.AldoColumn11.Caption" Value="Comment" />
+			<Item Name="Columns.AldoDescription.Caption" Value="Description" />
+			<Item Name="Columns.AldoDescription1.Caption" Value="Description" />
+			<Item Name="Columns.AldoExpensesTotal.Caption" Value="Expenses (total)" />
+			<Item Name="Columns.AldoFeedbackScore.Caption" Value="Feedback score" />
+			<Item Name="Columns.AldoName.Caption" Value="Number" />
+			<Item Name="Columns.AldoOwner.Caption" Value="Owner" />
+			<Item Name="Columns.AldoRequestCategory.Caption" Value="Categoy" />
+			<Item Name="Columns.AldoStatus.Caption" Value="Status" />
+			<Item Name="Columns.AldoSubcategory.Caption" Value="Subcategory" />
+		</Items>
+	</Group>
+</Resources>

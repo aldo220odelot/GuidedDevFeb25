@@ -1,0 +1,179 @@
+= MetaData.Schema.UId "d987a6b5-59fe-4d49-b597-52c03caabdd7"
+= MetaData.Schema.A2 "AldoRequests"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.B6 "b609512b-53a7-4b07-aca3-c12258bd4a45"
+= MetaData.Schema.EG1.UId "35ed072d-b64b-48d9-a321-be185b27409b"
+= MetaData.Schema.EG1.A2 "AldoRequestsEventsProcess"
+= MetaData.Schema.EG1.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "0.0.0.0"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.D15 true
++ MetaData.Schema.D17 true
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "6b01543e-7184-47d1-bf74-d46ec31eba4d"
++ MetaData.Schema.D2 {
+  "UId": "6b01543e-7184-47d1-bf74-d46ec31eba4d",
+  "A2": "AldoName",
+  "A3": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A4": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false,
+  "E12": {
+    "FB1": 4,
+    "FB4": "REQ-",
+    "FB5": 3
+  }
+}
++ MetaData.Schema.D2 {
+  "UId": "e9e5644f-c12e-7438-fd8a-5c72a39b4d92",
+  "A2": "AldoOwner",
+  "A3": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A4": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E17": "AldoOwnerId",
+  "E18": "AldoOwnerName"
+}
++ MetaData.Schema.D2 {
+  "UId": "50ed7f11-555b-5510-0b67-0e0072ab91d4",
+  "A2": "AldoApplicant",
+  "A3": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A4": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E12": {
+    "FB1": 3,
+    "FB2": "4f367ca9-549b-4a1a-b64e-a40123f52ac0"
+  },
+  "E17": "AldoApplicantId",
+  "E18": "AldoApplicantName"
+}
++ MetaData.Schema.D2 {
+  "UId": "a51800c3-f908-57da-3ff6-e102d7d97f69",
+  "A2": "AldoDescription",
+  "A3": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A4": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131",
+  "S2": "79bccffa-8c8b-4863-b376-a69d2244182b",
+  "E25": true
+}
++ MetaData.Schema.D2 {
+  "UId": "b3eb301f-350f-bcd9-ef64-56063f282c6b",
+  "A2": "AldoExpensesTotal",
+  "A3": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A4": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131",
+  "S2": "969093e2-2b4e-463b-883a-3d3b8c61f0cd"
+}
++ MetaData.Schema.D2 {
+  "UId": "4e44cb3e-0d91-c591-0e96-047c41a57065",
+  "A2": "AldoSubcategory",
+  "A3": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A4": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "c20fd478-ecee-474b-a3f8-6a429e2e1056",
+  "E6": true,
+  "E20": true,
+  "E17": "AldoSubcategoryId",
+  "E18": "AldoSubcategoryName"
+}
++ MetaData.Schema.D2 {
+  "UId": "5a5d0c4f-8992-0997-b197-8226fa313ca5",
+  "A2": "AldoRequestCategory",
+  "A3": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A4": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "e454aca0-a273-4924-8c09-72e90ed68c27",
+  "E6": true,
+  "E20": true,
+  "E17": "AldoRequestCategoryId",
+  "E18": "AldoRequestCategoryName"
+}
++ MetaData.Schema.D2 {
+  "UId": "b621968c-28c9-e623-ae99-6d7c10393eb5",
+  "A2": "AldoStatus",
+  "A3": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A4": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "4044a0b2-8f04-448d-9549-ff74fb34a26a",
+  "E6": true,
+  "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "9f28d705-021a-45fe-9918-6fcf27f9b5eb"
+  },
+  "E17": "AldoStatusId",
+  "E18": "AldoStatusName"
+}
++ MetaData.Schema.D2 {
+  "UId": "9de3d61e-0077-dcf8-394f-a352dd50518d",
+  "A2": "AldoDescription1",
+  "A3": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A4": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131",
+  "S2": "79bccffa-8c8b-4863-b376-a69d2244182b",
+  "E25": true
+}
++ MetaData.Schema.D2 {
+  "UId": "488a3e9a-40c8-f534-c710-4c3e8b8358d0",
+  "A2": "AldoColumn11",
+  "A3": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A4": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E25": true
+}
++ MetaData.Schema.D2 {
+  "UId": "abc87b21-cf87-62bc-fa19-7d04ddcdcb1e",
+  "A2": "AldoFeedbackScore",
+  "A3": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A4": "d987a6b5-59fe-4d49-b597-52c03caabdd7",
+  "A5": "748e795e-17fb-4c38-9815-73c4de438131",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "1be54c0f-9441-43b8-85bb-228c6cfbddd9",
+  "E6": true,
+  "E20": true,
+  "E17": "AldoFeedbackScoreId",
+  "E18": "AldoFeedbackScoreName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","6b01543e-7184-47d1-bf74-d46ec31eba4d","e9e5644f-c12e-7438-fd8a-5c72a39b4d92","50ed7f11-555b-5510-0b67-0e0072ab91d4","a51800c3-f908-57da-3ff6-e102d7d97f69","b3eb301f-350f-bcd9-ef64-56063f282c6b","4e44cb3e-0d91-c591-0e96-047c41a57065","5a5d0c4f-8992-0997-b197-8226fa313ca5","b621968c-28c9-e623-ae99-6d7c10393eb5","9de3d61e-0077-dcf8-394f-a352dd50518d","488a3e9a-40c8-f534-c710-4c3e8b8358d0","abc87b21-cf87-62bc-fa19-7d04ddcdcb1e"]
+= MetaData.Schema.D20.A2 "AldoRequestsEvents"
+= MetaData.Schema.D36.A3 "d987a6b5-59fe-4d49-b597-52c03caabdd7"
+= MetaData.Schema.D36.BS1 false
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

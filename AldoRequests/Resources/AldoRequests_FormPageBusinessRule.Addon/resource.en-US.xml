@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.0d5075a2-28da-b045-f0b7-24121dee1b8b.Caption" Value="Hide elements: Delete expenses button" />
+			<Item Name="AddonConfig.Rules.cb56eef9-bf38-7d95-f1f9-da7937fe5629.Caption" Value="Hide expense tab" />
+			<Item Name="Caption" Value="Requests form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

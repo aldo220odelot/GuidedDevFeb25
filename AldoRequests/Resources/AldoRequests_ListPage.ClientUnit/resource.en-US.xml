@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Requests list page" />
+			<Item Name="LocalizableStrings.GaugeWidget_pl1yvbi_template.Value" Value="{0}" />
+			<Item Name="LocalizableStrings.GaugeWidget_pl1yvbi_title.Value" Value="Completed requests" />
+			<Item Name="LocalizableStrings.IndicatorWidget_40hemln_template.Value" Value="There are {0} requests" />
+			<Item Name="LocalizableStrings.IndicatorWidget_40hemln_title.Value" Value="Open requests" />
+			<Item Name="LocalizableStrings.LookupQuickFilterByTag_config_caption.Value" Value="Tag filter" />
+			<Item Name="LocalizableStrings.LookupQuickFilterByTag_config_hint.Value" Value="Select tag to filter" />
+			<Item Name="LocalizableStrings.PDS_AldoRequestExpensesAldoRequestAldoAmountSumac12938c.Value" Value="Expenses, total" />
+			<Item Name="LocalizableStrings.PDS_AldoRequestExpensesAldoRequestIdCount9a739980.Value" Value="Number of expenses" />
+			<Item Name="LocalizableStrings.QuickFilter_neb8fwm_caption.Value" Value="Quick filter" />
+			<Item Name="LocalizableStrings.QuickFilter_neb8fwm_config_caption.Value" Value="Applicant" />
+			<Item Name="LocalizableStrings.QuickFilter_o31rerg_caption.Value" Value="Quick filter" />
+			<Item Name="LocalizableStrings.QuickFilter_o31rerg_config_caption.Value" Value="Unresolved" />
+			<Item Name="LocalizableStrings.QuickFilter_p691mh5_caption.Value" Value="Quick filter" />
+			<Item Name="LocalizableStrings.QuickFilter_p691mh5_config_caption.Value" Value="Created on" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Search" />
+		</Items>
+	</Group>
+</Resources>

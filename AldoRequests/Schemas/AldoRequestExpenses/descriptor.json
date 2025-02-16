@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9f8d7b99-f345-4235-8ec4-00b9980306a1",
+    "Name": "AldoRequestExpenses",
+    "ModifiedOnUtc": "\/Date(1739308912000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Request expenses",
+    "DependsOn": []
+  }
+}

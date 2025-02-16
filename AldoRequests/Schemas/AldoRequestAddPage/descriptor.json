@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "77bb1ab2-fe50-47f0-bd86-22c186fdb298",
+    "Name": "AldoRequestAddPage",
+    "ModifiedOnUtc": "\/Date(1739561288000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Request add page",
+    "DependsOn": []
+  }
+}

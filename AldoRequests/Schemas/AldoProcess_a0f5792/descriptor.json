@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c90a11b0-31a7-4a83-8e93-580b491b9cde",
+    "Name": "AldoProcess_a0f5792",
+    "ModifiedOnUtc": "\/Date(1739683424000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Request approval process",
+    "DependsOn": []
+  }
+}

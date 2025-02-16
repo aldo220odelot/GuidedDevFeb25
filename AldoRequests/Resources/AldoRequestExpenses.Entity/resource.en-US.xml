@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Request expenses" />
+			<Item Name="Columns.AldoAmount.Caption" Value="Amount" />
+			<Item Name="Columns.AldoComment.Caption" Value="Comment" />
+			<Item Name="Columns.AldoImported.Caption" Value="Imported" />
+			<Item Name="Columns.AldoRequest.Caption" Value="Request" />
+			<Item Name="Columns.AldoType.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>
