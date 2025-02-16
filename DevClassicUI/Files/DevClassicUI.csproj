@@ -274,6 +274,31 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="Finesse">
+			<HintPath>$(RelativePkgFolderPath)/Finesse/$(StandalonePackageAssemblyPath)/Finesse.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="OpenIdAuth">
+			<HintPath>$(RelativePkgFolderPath)/OpenIdAuth/$(StandalonePackageAssemblyPath)/OpenIdAuth.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtNextStep">
+			<HintPath>$(RelativePkgFolderPath)/CrtNextStep/$(StandalonePackageAssemblyPath)/CrtNextStep.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="FeatureToggling">
+			<HintPath>$(RelativePkgFolderPath)/FeatureToggling/$(StandalonePackageAssemblyPath)/FeatureToggling.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtJunkFilter">
+			<HintPath>$(RelativePkgFolderPath)/CrtJunkFilter/$(StandalonePackageAssemblyPath)/CrtJunkFilter.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
 		<Reference Include="CSP">
 			<HintPath>$(RelativePkgFolderPath)/CSP/$(StandalonePackageAssemblyPath)/CSP.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
@@ -289,28 +314,23 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="FeatureToggling">
-			<HintPath>$(RelativePkgFolderPath)/FeatureToggling/$(StandalonePackageAssemblyPath)/FeatureToggling.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="CrtNextStep">
-			<HintPath>$(RelativePkgFolderPath)/CrtNextStep/$(StandalonePackageAssemblyPath)/CrtNextStep.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="OpenIdAuth">
-			<HintPath>$(RelativePkgFolderPath)/OpenIdAuth/$(StandalonePackageAssemblyPath)/OpenIdAuth.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="Finesse">
-			<HintPath>$(RelativePkgFolderPath)/Finesse/$(StandalonePackageAssemblyPath)/Finesse.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
 		<Reference Include="CrtCustomer360Mobile">
 			<HintPath>$(RelativePkgFolderPath)/CrtCustomer360Mobile/$(StandalonePackageAssemblyPath)/CrtCustomer360Mobile.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtSLM7x">
+			<HintPath>$(RelativePkgFolderPath)/CrtSLM7x/$(StandalonePackageAssemblyPath)/CrtSLM7x.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtCase7x">
+			<HintPath>$(RelativePkgFolderPath)/CrtCase7x/$(StandalonePackageAssemblyPath)/CrtCase7x.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtCaseManagement">
+			<HintPath>$(RelativePkgFolderPath)/CrtCaseManagement/$(StandalonePackageAssemblyPath)/CrtCaseManagement.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -321,6 +341,41 @@
 		</Reference>
 		<Reference Include="CrtCustomer360App">
 			<HintPath>$(RelativePkgFolderPath)/CrtCustomer360App/$(StandalonePackageAssemblyPath)/CrtCustomer360App.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="MLSimilarCaseSearch">
+			<HintPath>$(RelativePkgFolderPath)/MLSimilarCaseSearch/$(StandalonePackageAssemblyPath)/MLSimilarCaseSearch.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtCaseService7x">
+			<HintPath>$(RelativePkgFolderPath)/CrtCaseService7x/$(StandalonePackageAssemblyPath)/CrtCaseService7x.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtSLMITILService7x">
+			<HintPath>$(RelativePkgFolderPath)/CrtSLMITILService7x/$(StandalonePackageAssemblyPath)/CrtSLMITILService7x.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtCasesInC360">
+			<HintPath>$(RelativePkgFolderPath)/CrtCasesInC360/$(StandalonePackageAssemblyPath)/CrtCasesInC360.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtCaseManagementApp">
+			<HintPath>$(RelativePkgFolderPath)/CrtCaseManagementApp/$(StandalonePackageAssemblyPath)/CrtCaseManagementApp.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtCustomerInfoInCaseMgmt">
+			<HintPath>$(RelativePkgFolderPath)/CrtCustomerInfoInCaseMgmt/$(StandalonePackageAssemblyPath)/CrtCustomerInfoInCaseMgmt.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtSLAInC360">
+			<HintPath>$(RelativePkgFolderPath)/CrtSLAInC360/$(StandalonePackageAssemblyPath)/CrtSLAInC360.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
