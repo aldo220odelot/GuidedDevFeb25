@@ -249,16 +249,6 @@
 		</Reference>
 	</ItemGroup>
 	<ItemGroup Label="Package References">
-		<Reference Include="CrtCustomer360App">
-			<HintPath>$(RelativePkgFolderPath)/CrtCustomer360App/$(StandalonePackageAssemblyPath)/CrtCustomer360App.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="AldoRequests">
-			<HintPath>$(RelativePkgFolderPath)/AldoRequests/$(StandalonePackageAssemblyPath)/AldoRequests.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
 		<Reference Include="CrtEmailSender">
 			<HintPath>$(RelativePkgFolderPath)/CrtEmailSender/$(StandalonePackageAssemblyPath)/CrtEmailSender.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
@@ -341,6 +331,11 @@
 		</Reference>
 		<Reference Include="CrtSLM7x">
 			<HintPath>$(RelativePkgFolderPath)/CrtSLM7x/$(StandalonePackageAssemblyPath)/CrtSLM7x.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CrtCustomer360App">
+			<HintPath>$(RelativePkgFolderPath)/CrtCustomer360App/$(StandalonePackageAssemblyPath)/CrtCustomer360App.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
