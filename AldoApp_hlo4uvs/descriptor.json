@@ -1,0 +1,11 @@
+﻿{
+  "Descriptor": {
+    "UId": "95c2695c-a18e-4b0c-8e53-2528de0a58ee",
+    "Name": "AldoApp_hlo4uvs",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(-62135586000000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/AldoApp_hlo4uvs.csproj",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "519ed690-c22e-4d76-9246-209d29de1d3a",
+    "Name": "AldoRealtyTypeClassic",
+    "ModifiedOnUtc": "\/Date(1739751971000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty type (Classic UI)",
+    "DependsOn": []
+  }
+}

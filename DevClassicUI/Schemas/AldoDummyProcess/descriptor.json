@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "958a4c83-b597-4b80-8836-e6c6843b1ae5",
+    "Name": "AldoDummyProcess",
+    "ModifiedOnUtc": "\/Date(1739751938000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Dummy Process",
+    "DependsOn": []
+  }
+}
