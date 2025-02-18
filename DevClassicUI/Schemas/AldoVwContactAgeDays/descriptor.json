@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3542d863-07e4-414e-82fe-e9ce65b7a046",
+    "Name": "AldoVwContactAgeDays",
+    "ModifiedOnUtc": "\/Date(1739846413000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Contact age in days",
+    "DependsOn": []
+  }
+}

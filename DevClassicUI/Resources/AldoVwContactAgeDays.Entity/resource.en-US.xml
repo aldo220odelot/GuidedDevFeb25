@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Contact age in days" />
+			<Item Name="Columns.AldoAgeDays.Caption" Value="AldoAgeDays" />
+			<Item Name="Columns.AldoBirthdate.Caption" Value="AldoBirthdate" />
+			<Item Name="Columns.AldoId.Caption" Value="AldoId" />
+			<Item Name="Columns.AldoName.Caption" Value="AldoName" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>
